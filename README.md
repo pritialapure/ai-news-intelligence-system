@@ -91,7 +91,8 @@ This project helped develop skills in:
 
 **Your Name**
 
-GitHub: [Your GitHub Link]  
+GitHub: [https://github.com/yourusername/ai-news-intelligence-system
+]  
 Portfolio: [Your Portfolio Link]
 
 
